@@ -104,5 +104,8 @@
 
   }
   @keyframes moveBanner{
-    
+    0%{
+        transform: translateV( 40rem) rotateV(-20rem);
+    }
+
   }
