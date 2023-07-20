@@ -15,6 +15,7 @@
    height: 3rem;
    background-color: red; 
    position: fixed;
+   top: 5rem;
   }
 
   .header{
