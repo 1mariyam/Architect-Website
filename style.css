@@ -90,6 +90,7 @@
     margin-bottom: 3rem;
     text-shadow: 0.3rem .5rem rgba(0, 0, 0, 0.4);
     opacity: 0;
+    animation: move Banner 1s;
   }
   .banner button{
     width: 25rem;
