@@ -107,8 +107,10 @@
     0%{
         transform: translateV( 40rem) rotateV(-20rem);
     }
-    100%{
-        
+    100%{transform: translateY(0) rotateY(0);
+        opacity: 1;
+
+
     }
 
   }
