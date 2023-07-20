@@ -107,5 +107,8 @@
     0%{
         transform: translateV( 40rem) rotateV(-20rem);
     }
+    100%{
+        
+    }
 
   }
