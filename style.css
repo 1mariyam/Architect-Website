@@ -80,7 +80,8 @@
     letter-spacing: .2rem;
     text-shadow: 0.3rem .5rem rgba(0, 0, 0, 0.4);
     opacity: 0;
-    animation: moveBanner 1s .7s;
+    animation: moveBanner 1s .5s;
+    forwards;
   }
   .banner p{
     font-family: "Josefin Slab",serif;
@@ -92,7 +93,8 @@
     margin-bottom: 3rem;
     text-shadow: 0.3rem .5rem rgba(0, 0, 0, 0.4);
     opacity: 0;
-    animation: move Banner 1s 0.9s;
+    animation: move Banner 1s .7s forwards;
+
   }
   .banner button{
     width: 25rem;
@@ -106,6 +108,7 @@
     box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.4);
     cursor: pointer;
     opacity: 0;
+    animation: moveBanner 1s .9s forwards;
 
   }
   @keyframes moveBanner{
