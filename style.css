@@ -89,6 +89,7 @@
     margin: 3rem;
     margin-bottom: 3rem;
     text-shadow: 0.3rem .5rem rgba(0, 0, 0, 0.4);
+    opacity: 0;
   }
   .banner button{
     width: 25rem;
@@ -105,7 +106,7 @@
   }
   @keyframes moveBanner{
     0%{
-        transform: translateV( 40rem) rotateV(-20rem);
+        transform: translateV( 40rem) rotateV(-20deg);
     }
     100%{transform: translateY(0) rotateY(0);
         opacity: 1;
