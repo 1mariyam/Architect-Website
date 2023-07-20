@@ -21,6 +21,7 @@
    display: flex;
    flex-direction: column;
    justify-content: space-evenly;
+   cursor: pointer;
   }
   .line{
    width: 100%;
