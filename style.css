@@ -123,5 +123,7 @@
 
   }
   .sidebar{
-  width: 40rem;  
+  width: 40rem;
+  height: 100vh;
+
   }
