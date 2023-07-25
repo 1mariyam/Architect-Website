@@ -133,5 +133,7 @@
   }
   .menu{
    position: absolute;
-   top: 40%; 
+   top: 40%;
+   left: 50%; 
+   
   }
