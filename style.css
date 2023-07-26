@@ -129,6 +129,8 @@
   top: 0;
   right: 0;
   background-color: #fff;
+  transition: right 0.5s;
+  z-index: 100;
 
   }
   .menu{
@@ -154,6 +156,7 @@
     left: 0;
     color: #C29525;
     width: 0;
+    
   }
   .social-media{
    position: absolute; 
