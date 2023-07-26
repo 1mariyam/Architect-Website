@@ -145,9 +145,10 @@
     font-family: Baloo Da 2 serif;
     font-size: 4rem;
     color: #555;
+    position: relative;
   }
   .menu-link::before{
-    content: ;
+    content: attr(data-content);
   }
   .social-media{
    position: absolute; 
