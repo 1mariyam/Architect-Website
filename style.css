@@ -151,6 +151,7 @@
     content: attr(data-content);
     position: absolute;
     top: 0;
+    left: 0;
   }
   .social-media{
    position: absolute; 
