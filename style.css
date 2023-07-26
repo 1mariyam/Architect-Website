@@ -161,6 +161,7 @@
     background-color: #777;
     color: #fff;
     display: flex;
+    justify-content: center;
 
 
   }
