@@ -146,6 +146,9 @@
     font-size: 4rem;
     color: #555;
   }
+  .menu-link::before{
+    content: ;
+  }
   .social-media{
    position: absolute; 
    bottom: 3rem;
