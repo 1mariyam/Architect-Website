@@ -149,6 +149,8 @@
   }
   .menu-link::before{
     content: attr(data-content);
+    position: absolute;
+    top: 0;
   }
   .social-media{
    position: absolute; 
