@@ -152,6 +152,8 @@
     position: absolute;
     top: 0;
     left: 0;
+    color: #C29525;
+    width: 0;
   }
   .social-media{
    position: absolute; 
