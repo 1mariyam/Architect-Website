@@ -263,4 +263,5 @@ html {
   height: 100%;
   display: grid;
   grid-template-columns: repeat(6,6rem);
+  grid-row-gap:4rem;
 }
