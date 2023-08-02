@@ -355,6 +355,10 @@ html {
 .Cards-Wrapper{
   display: flex;
   justify-content: space-evenly;
+  margin-top: 8rem;
+}
+.Card{
+  width: 37rem;
 }
 
 
