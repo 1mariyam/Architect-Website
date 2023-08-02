@@ -361,6 +361,9 @@ html {
   width: 37rem;
   height: 45rem;
 }
+.Card-img-wrapper img{
+  width: 100%;
+}
 
 
 
