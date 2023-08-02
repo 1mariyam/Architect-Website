@@ -354,6 +354,7 @@ html {
 }
 .Cards-Wrapper{
   display: flex;
+  justify-content: space-evenly;
 }
 
 
