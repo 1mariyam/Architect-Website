@@ -347,6 +347,7 @@ html {
 }
 .team{
   display: flex;
+  flex-direction: column;
 }
 
 
