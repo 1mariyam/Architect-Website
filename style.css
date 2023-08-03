@@ -496,3 +496,6 @@ align-items: center;
 .input-group input{
   height: 4rem;
 }
+.input-group textarea{
+  max-height: 7rem;
+}
