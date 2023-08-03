@@ -452,4 +452,5 @@ html {
 .contact-wrapper{
   width: 60%;
   height: 75rem;
+  display: flex;
 }
