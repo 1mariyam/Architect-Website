@@ -430,4 +430,6 @@ html {
 .card-info button{
   width: 10rem;
   height: 3rem;
+  background-color: #C29525;
+  border: none;
 }
