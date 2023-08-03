@@ -379,6 +379,8 @@ html {
   height: 100%;
   object-fit: cover;
   opacity: .8;
+  border-radius: 0.5rem;
+  transition: opacity 0.3s;
 
 
 
