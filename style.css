@@ -409,3 +409,6 @@ html {
   font-weight: 300;
   color: #eee;
 }
+.card-info h3{
+  font-family: 'Muli', serif;
+}
