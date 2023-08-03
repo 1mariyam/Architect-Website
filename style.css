@@ -396,3 +396,11 @@ html {
   visibility: hidden;
   transition: all 0.3s;
 }
+
+.card:hover .card-info {
+  bottom: 2rem;
+  opacity: 1;
+  visibility: visible;
+}
+
+
