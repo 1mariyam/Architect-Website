@@ -517,3 +517,6 @@ align-items: center;
 .input-label {
   bottom: 3rem;
 }
+.message {
+  bottom: 6rem;
+}
