@@ -434,4 +434,6 @@ html {
   border: none;
   font-family: 'Baloo Da 2', serif;
   font-size: 1.4rem;
+  line-height: 1.5rem;
+  color: #eee;
 }
