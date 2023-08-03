@@ -487,4 +487,5 @@ align-items: center;
    background-color: transparent;
     border: none;
      border-bottom: 0.2rem dashed #636363;
+     margin: 3rem 0;
 }
