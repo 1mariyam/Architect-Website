@@ -389,5 +389,6 @@ html {
 
 .card-info{
   position: absolute;
+  bottom: 0;
 
 }
