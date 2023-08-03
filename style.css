@@ -492,5 +492,7 @@ align-items: center;
        font-family: "Mulish", serif;
         font-size: 1.6rem;
         color: #4B4B4B;
-
+}
+.input-group input{
+  height: 4rem;
 }
