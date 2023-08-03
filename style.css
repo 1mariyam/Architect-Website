@@ -366,3 +366,7 @@ html {
   border-radius: 0.5rem;
   position: relative;
 }
+
+.card-img-wrapper{
+  width: 100%;
+}
