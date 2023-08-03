@@ -473,3 +473,7 @@ html {
     margin-bottom: 5rem;
      text-align: center;
 }
+.contact-right form{
+ width: 100%; 
+ display: flex;
+}
