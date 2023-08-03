@@ -391,4 +391,6 @@ html {
   position: absolute;
   bottom: 0;
   padding: 2rem;
+  text-shadow: 0.2rem .5rem rgba(0, 0, 0, 0.4);
+
 }
