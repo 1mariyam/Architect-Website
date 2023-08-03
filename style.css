@@ -455,3 +455,7 @@ html {
   display: flex;
   box-shadow: 0 3rem 7rem rgba(0, 0, 0, 0.5);
 }
+.contact-left{
+  width: 35%;
+
+}
