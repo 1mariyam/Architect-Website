@@ -436,4 +436,7 @@ html {
   font-size: 1.4rem;
   line-height: 1.5rem;
   color: #eee;
+  border-radius: .3rem;
+  box-shadow: 0 0.1rem .8rem rgba(0, 0, 0, 0.4);
+
 }
