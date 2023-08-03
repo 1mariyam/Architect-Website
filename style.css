@@ -484,4 +484,5 @@ align-items: center;
 }
 .field{
    width: 45rem;
+   background-color: transparent;
 }
