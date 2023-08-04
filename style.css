@@ -526,5 +526,7 @@ align-items: center;
 }
 
 .submit-btn {
-  width: 45rem; 
+  height: 5rem;
+  width: 45rem;
+
 }
