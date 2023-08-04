@@ -520,3 +520,6 @@ align-items: center;
 .message {
   bottom: 6rem;
 }
+.field:focus ~ label{
+  transform: translateY(-3rem);
+}
