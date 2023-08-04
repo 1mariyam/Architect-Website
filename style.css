@@ -538,6 +538,7 @@ align-items: center;
   text-transform: uppercase;
   letter-spacing: 0.2rem;
   cursor: pointer;
+  text-shadow: 0 0.1rem 0.3rem rgba(0, 0, 0, 0.5);
 
 
 }
