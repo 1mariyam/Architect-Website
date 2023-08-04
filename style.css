@@ -536,5 +536,8 @@ align-items: center;
   font-size: 2rem;
   font-weight: 300;
   text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  cursor: pointer;
+
 
 }
