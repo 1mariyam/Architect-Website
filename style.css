@@ -528,5 +528,7 @@ align-items: center;
 .submit-btn {
   height: 5rem;
   width: 45rem;
+  background-color: #C29525;
+  color: #fff;
 
 }
