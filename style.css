@@ -522,4 +522,5 @@ align-items: center;
 }
 .field:focus ~ label{
   transform: translateY(-3rem);
+  font-size: 1.2rem;
 }
